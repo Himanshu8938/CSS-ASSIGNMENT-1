@@ -1,0 +1,53 @@
+.heading1{
+    color: red;
+}
+.heading2{
+    font-style: italic;
+    color: lightgreen;
+}
+.lt{
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+.bg{
+    font-weight: bolder;
+    background-color: yellow;
+}
+.it{
+    font-style: italic;
+    text-decoration: underline;
+}
+.txt{
+    color: red;
+}
+.ul{
+    color: brown;
+    letter-spacing: 3px;
+}
+.yellow{
+    background-color: yellow;
+}
+.p1{
+    color: brown;
+    font-size: large;
+    font-weight: lighter;
+}
+
+.p2{
+    color: brown;
+    font-size: smaller;
+}
+.p3{
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+}
+.margin{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+a{
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+}
